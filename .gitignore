@@ -1,2 +1,7 @@
 /web/node_modules
 /backend/venv
+/backend/__pycache__
+/research/.DS_Store
+/research/data/.DS_Store
+
+.DS_Store
