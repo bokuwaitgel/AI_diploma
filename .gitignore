@@ -1,7 +1,10 @@
+#ignore none relevant folders
 /web/node_modules
 /backend/venv
 /backend/__pycache__
+
+#ignore none relevant files
+.DS_Store
 /research/.DS_Store
 /research/data/.DS_Store
 
-.DS_Store
